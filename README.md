@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there, welcome! 👋
 
+About me!
+
+My name is Xiomara a computer science student at St. John's University.
+
+🌱 I’m currently learning:
+About AI/ML through a program called Break Through Tech
+
+📫 How to reach me: https://www.linkedin.com/in/xiomaraserpa/ 
 <!--
 **Xioma-S/Xioma-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
