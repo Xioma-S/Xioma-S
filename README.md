@@ -1,27 +1,11 @@
-body {
-  background-color: #6e5494; /* replace with your desired color */
-}
+## Hi there, welcome I'm Xiomara! 👋
+🎓 **CS Student** 
+🌟 Proud participant in the Break Through Tech AI/ML program
+🌱 I’m currently learning about AI/ML through a program called Break Through Tech
 
-## Hi there, welcome! 👋
-About me!
+## 🚀 About Me
+I'm a passionate computer science student with a keen interest in artificial intelligence and machine learning. Currently, I'm expanding my skills through the Break Through Tech program, where I'm collaborating with like-minded peers to tackle innovative AI/ML challenges.
 
-My name is Xiomara a computer science student at St. John's University.
+## 🌐 Connect With Me
+https://www.linkedin.com/in/xiomaraserpa/ 
 
-🌱 I’m currently learning:
-About AI/ML through a program called Break Through Tech
-
-📫 How to reach me: https://www.linkedin.com/in/xiomaraserpa/ 
-<!--
-**Xioma-S/Xioma-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
