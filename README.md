@@ -1,5 +1,7 @@
 ## Hi there, welcome! 👋
-
+body {
+  background-color: #6e5494; /* replace with your desired color */
+}
 About me!
 
 My name is Xiomara a computer science student at St. John's University.
